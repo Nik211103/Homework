@@ -2,7 +2,7 @@
 
 
 Console.WriteLine("Введите число N:");
-        int n = int.Parse(Console.ReadLine());
+        int n = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine($"Четные числа от 1 до " + n + ".");
         
