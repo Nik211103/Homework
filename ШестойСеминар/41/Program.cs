@@ -14,4 +14,4 @@ for (int i = 0; i < M; i++)
     }
 }
 
-Console.WriteLine("Количество чисел больше 0 = " + count);
+Console.WriteLine($"Количество чисел больше 0 =  {count}");
